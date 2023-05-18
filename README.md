@@ -1,5 +1,7 @@
 # React Movie Web App
 
+![Uploading moviethumb.png…]()
+
 
 Welcome to the React Movie Web App! This project is a web application built using React, allowing users to search for various movies and explore their details. The application utilizes a movie API to fetch movie data and provide an interactive user experience.
 
