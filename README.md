@@ -1,6 +1,7 @@
 # React Movie Web App
 
-![Uploading moviethumb.png…]()
+
+![movie-app](https://github.com/UB30-4/react-movie-app/assets/101749091/d7f9ca0e-5aa6-45a6-ac9b-0e9b971fe1e1)
 
 
 Welcome to the React Movie Web App! This project is a web application built using React, allowing users to search for various movies and explore their details. The application utilizes a movie API to fetch movie data and provide an interactive user experience.
@@ -17,7 +18,7 @@ Welcome to the React Movie Web App! This project is a web application built usin
 
 To get started with the React Movie Web App, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/react-movie-web-app.git`
+1. Clone the repository: `git clone https://github.com/UB30-4/react-movie-app`
 2. Install dependencies: `npm install`
 3. Set up the movie API: Obtain an API key from a movie database provider and update the configuration file with your API key.
 4. Run the development server: `npm start`
