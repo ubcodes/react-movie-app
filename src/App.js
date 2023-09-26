@@ -22,11 +22,11 @@ const App = () => {
 
   return (
     <div className='app'>
-      <h1>MovieLand</h1>
+      <h1>Search for your favorite movies here 🤩</h1>
 
       <div className='search'>
         <input
-          placeholder='Search for movies'
+          placeholder='Type here...'
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
         />
